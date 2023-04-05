@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+.table{
+    width: 80vw;
+    margin: 0 10vw;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border: none;
+    color: #000;
+}
+th{
+  width:35%;
+  padding: 15px;
+   border: none;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: 0 1px #FFF;
+  border: 1px solid #000;
+}
+td{
+    padding: 15px;
+    border: none;
+    border: 1px solid #000;
+    text-align: center;
+}
+.activate{
+  background-color: rgba(255, 0, 0, 0.3);
+}
+.disabled{
+  background-color: rgba(0, 255, 0, 0.3);
+}
+.que{
+  
+  width: 80vw;
+  margin: 0 10vw;
+  padding: 15px 0;
+  border: none;
+  border: 1px solid #000;
+  text-align: center;
+}
